@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+##NAME:SHAGILAN U
+##REG.NO::21224040303
 ## AIM
 ## ALGORITHM:
 1. Start the program.
@@ -39,11 +41,7 @@ while True:
    s.send("acknowledgement recived from the server".encode())
 ```
 ## OUPUT
-## client
+![Screenshot (36)](https://github.com/user-attachments/assets/889acc6e-bbee-4a43-b24d-42bf291b7408)
 
-![Screenshot 2024-04-20 110727](https://github.com/Danica-christa/2b_SLIDING_WINDOW_PROTOCOL/assets/151514009/6ea99178-a72d-4f4d-8dd9-9b58b3de224c)
-## server
-
-![Screenshot 2024-04-20 110740](https://github.com/Danica-christa/2b_SLIDING_WINDOW_PROTOCOL/assets/151514009/afd8da0f-2c7e-4b39-a482-4d3150599f4a)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
